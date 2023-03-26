@@ -1,17 +1,3 @@
-Skip to content
- 
-Search…
-All gists
-Back to GitHub
-@NikGeekB2001 
-@NikGeekB2001
-NikGeekB2001/homework_1.py
-Last active 1 hour ago
-0
-Code
-Revisions
-2
-<script src="https://gist.github.com/NikGeekB2001/bb0789f9078993b9faebf3c70aafcd38.js"></script>
 Описание
 homework_1.py
 # Задача 1
@@ -370,29 +356,3 @@ print('Функция, которая принимает на вход матр�
 # np.unique` обрабатывает матрицу таким образом, что остаются только уникальные строки
 # (параметр `axis=0` указывает на то, что обрабатывать нужно построчно).
 # Результат функции - это новая матрица, состоящая из уникальных строк.
-@NikGeekB2001
- 
-Add heading textAdd bold text, <Ctrl+b>Add italic text, <Ctrl+i>
-Add a quote, <Ctrl+Shift+.>Add code, <Ctrl+e>Add a link, <Ctrl+k>
-Add a bulleted list, <Ctrl+Shift+8>Add a numbered list, <Ctrl+Shift+7>Add a task list, <Ctrl+Shift+l>
-Directly mention a user or team
-Reference an issue or pull request
-Leave a comment
-Файл не выбран
-Attach files by dragging & dropping, selecting or pasting them.
-Styling with Markdown is supported
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-Описание
